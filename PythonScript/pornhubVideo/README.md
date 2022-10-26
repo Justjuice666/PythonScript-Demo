@@ -1,0 +1,5 @@
+# pornhubVideo
+__爬取P站的视频__  
+
+注：  
+下载用的requests.get，需要selenium里浏览器的cookies作为cookies，目前无法实现，只能手动更改，可以把输出的下载链接用软件或者浏览器下载  
